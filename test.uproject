@@ -7,6 +7,16 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": true
+		},
+		{
+			"Name": "InputBuffer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c563909f15434f63869af1cb8046a5ff"
+		},
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
 		}
 	]
 }

@@ -1,362 +1,362 @@
 "../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 0
 "../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-3.uasset" 2
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c01_PNG.uasset" 3
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c02_PNG.uasset" 4
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c03_PNG.uasset" 5
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/BackStand.uasset" 6
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-4.uasset" 7
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c04_PNG.uasset" 8
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c05_PNG.uasset" 9
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch.uasset" 10
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-0.uasset" 11
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk01_PNG.uasset" 12
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk02_PNG.uasset" 13
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-1.uasset" 14
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk03_PNG.uasset" 15
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk04_PNG.uasset" 16
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk05_PNG.uasset" 17
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/CrouchKL.uasset" 18
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_chk_PNG.uasset" 19
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_clk_PNG.uasset" 20
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk.uasset" 21
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cro_kick_back_ckb01_PNG.uasset" 22
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-2.uasset" 23
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cro_kick_back_ckb02_PNG.uasset" 24
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cro_kick_back_ckb03_PNG.uasset" 25
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Dmg/Textures/dmg.uasset" 26
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/High_Dmg_PNG.uasset" 27
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/High_Dmg.uasset" 28
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Low_Dmg_PNG.uasset" 29
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Low_Dmg.uasset" 30
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Guard/Textures/guard.uasset" 31
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Guard/Frames/c_Guard_PNG.uasset" 32
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Guard/Frames/c_Guard_PNG_Flipbook.uasset" 33
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-7.uasset" 34
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/j03_PNG.uasset" 35
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/BackJump.uasset" 36
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-6.uasset" 37
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/j02_PNG.uasset" 38
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/FrontJump.uasset" 39
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-0.uasset" 40
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh01_PNG.uasset" 41
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh02_PNG.uasset" 42
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh03_PNG.uasset" 43
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh04_PNG.uasset" 44
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-1.uasset" 45
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh05_PNG.uasset" 46
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh06_PNG.uasset" 47
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh07_PNG.uasset" 48
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh08_PNG.uasset" 49
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-2.uasset" 50
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh09_PNG.uasset" 51
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh10_PNG.uasset" 52
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh11_PNG.uasset" 53
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh12_PNG.uasset" 54
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-3.uasset" 55
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh13_PNG.uasset" 56
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JKH.uasset" 57
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkm01_PNG.uasset" 58
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JKL.uasset" 59
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkl01_PNG.uasset" 60
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JKM.uasset" 61
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpl01_PNG.uasset" 62
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JPL.uasset" 63
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Textures/kick-0.uasset" 64
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/hk_PNG.uasset" 65
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Textures/kick-1.uasset" 66
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/k01_PNG.uasset" 67
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/k02_PNG.uasset" 68
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/k03_PNG.uasset" 69
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/Mid_kick_mk01_PNG.uasset" 70
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/Mid_kick_mk02_PNG.uasset" 71
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/HighKick.uasset" 72
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/k04_PNG.uasset" 73
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Textures/kick-2.uasset" 74
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/lk_PNG.uasset" 75
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/LowKick.uasset" 76
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/Mid_kick_mk03_PNG.uasset" 77
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/MidKick.uasset" 78
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Textures/hp.uasset" 79
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/hp01_PNG.uasset" 80
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/hp02_PNG.uasset" 81
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/hp03_PNG.uasset" 82
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/hp.uasset" 83
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/stp_PNG.uasset" 84
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/stp_PNG_Flipbook.uasset" 85
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Stun/Textures/stun.uasset" 86
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun01_PNG.uasset" 87
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun02_PNG.uasset" 88
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun03_PNG.uasset" 89
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun04_PNG.uasset" 90
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun.uasset" 91
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Textures/wake-0.uasset" 92
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa00_PNG.uasset" 93
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa01_PNG.uasset" 94
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa02_PNG.uasset" 95
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa03_PNG.uasset" 96
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Textures/wake-1.uasset" 97
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa04_PNG.uasset" 98
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa05_PNG.uasset" 99
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa06_PNG.uasset" 100
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa07_PNG.uasset" 101
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Textures/wake-2.uasset" 102
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa08_PNG.uasset" 103
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/Wake.uasset" 104
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 105
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Textures/2DBackground.uasset" 106
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 107
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 108
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 109
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 110
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 111
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 112
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 113
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 114
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 115
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 116
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 117
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 118
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 119
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 120
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 121
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 122
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 123
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 124
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 125
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 126
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 127
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 128
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 129
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 130
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 131
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 132
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 133
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 134
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 135
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 136
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 137
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 138
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 139
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Blueprints/MyPlayerControler1_2.uasset" 140
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Blueprints/P1-P2.uasset" 141
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouching.uasset" 142
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Mid_Dmg_PNG.uasset" 143
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Mid_Dmg.uasset" 144
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/j01_PNG.uasset" 145
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/DirectJump.uasset" 146
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Textures/mp.uasset" 147
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mp01_PNG.uasset" 148
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mp02_PNG.uasset" 149
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mp.uasset" 150
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/stp_PNG.uasset" 151
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/stp.uasset" 152
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Stand/Textures/stand.uasset" 153
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Stand/Frames/s1_PNG.uasset" 154
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Stand/Frames/Stand.uasset" 155
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-0.uasset" 156
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0209_PNG.uasset" 157
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0210_PNG.uasset" 158
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0211_PNG.uasset" 159
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0212_PNG.uasset" 160
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-1.uasset" 161
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0213_PNG.uasset" 162
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0214_PNG.uasset" 163
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0215_PNG.uasset" 164
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0216_PNG.uasset" 165
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-2.uasset" 166
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0217_PNG.uasset" 167
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0218_PNG.uasset" 168
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0219_PNG.uasset" 169
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0220_PNG.uasset" 170
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-3.uasset" 171
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0221_PNG.uasset" 172
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0222_PNG.uasset" 173
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0223_PNG.uasset" 174
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0224_PNG.uasset" 175
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-4.uasset" 176
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0225_PNG.uasset" 177
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0226_PNG.uasset" 178
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0227_PNG.uasset" 179
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0228_PNG.uasset" 180
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/Walk.uasset" 181
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/WalkReverse.uasset" 182
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter3.uasset" 183
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_2.uasset" 184
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter2.uasset" 185
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch_punch_IMG_0355_PNG.uasset" 186
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch_punch_IMG_0356_PNG.uasset" 187
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch_punch_IMG_0357_PNG.uasset" 188
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch_punch_IMG.uasset" 189
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Crouch_Dmg_PNG.uasset" 190
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Crouch_Dmg.uasset" 191
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Guard/Frames/s_Guard_PNG.uasset" 192
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Guard/Frames/s_Guard_PNG_Flipbook.uasset" 193
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-4.uasset" 194
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm01_PNG.uasset" 195
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm02_PNG.uasset" 196
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm03_PNG.uasset" 197
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm04_PNG.uasset" 198
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-5.uasset" 199
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm05_PNG.uasset" 200
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm06_PNG.uasset" 201
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm07_PNG.uasset" 202
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm08_PNG.uasset" 203
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm09_PNG.uasset" 204
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm10_PNG.uasset" 205
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JPM.uasset" 206
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mps_PNG.uasset" 207
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mps_PNG_Flipbook.uasset" 208
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 209
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Blueprints/MyPlayerControler1.uasset" 210
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Physic/CharacterJump.uasset" 211
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Background/cartesian-plane-024.uasset" 212
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Background/cartesian-plane-024_Mat.uasset" 213
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Background/cartesian-plane-024_Mat2.uasset" 214
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenCrouch.uasset" 215
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenCrouch_Sprite_0.uasset" 216
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenCrouch_Sprite_1.uasset" 217
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Animation/kenCrouch1.uasset" 218
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenIdle.uasset" 219
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenIdle_Sprite_10.uasset" 220
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenIdle_Sprite_11.uasset" 221
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenIdle_Sprite_12.uasset" 222
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenIdle_Sprite_9.uasset" 223
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Animation/kenIdle1.uasset" 224
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenJump.uasset" 225
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_1.uasset" 226
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_2.uasset" 227
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_3.uasset" 228
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_5.uasset" 229
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_6.uasset" 230
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Animation/kenJump1.uasset" 231
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenPunch.uasset" 232
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenPunch_Sprite_0.uasset" 233
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenPunch_Sprite_1.uasset" 234
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenPunch_Sprite_2.uasset" 235
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Animation/kenPunch1.uasset" 236
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenWalking.uasset" 237
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_0.uasset" 238
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_1.uasset" 239
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_2.uasset" 240
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_3.uasset" 241
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_4.uasset" 242
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ken/Animation/kenWalking1.uasset" 243
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuCrouch.uasset" 244
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuCrouch_Sprite_0.uasset" 245
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuCrouch_Sprite_1.uasset" 246
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Animation/ryuCrouch1.uasset" 247
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle.uasset" 248
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle_Sprite_0.uasset" 249
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle_Sprite_1.uasset" 250
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle_Sprite_2.uasset" 251
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle_Sprite_3.uasset" 252
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Animation/ryuIdle1.uasset" 253
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump.uasset" 254
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_1.uasset" 255
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_2.uasset" 256
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_3.uasset" 257
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_4.uasset" 258
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_5.uasset" 259
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Animation/ryuJump1.uasset" 260
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuPunch.uasset" 261
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuPunch_Sprite_0.uasset" 262
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuPunch_Sprite_1.uasset" 263
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuPunch_Sprite_2.uasset" 264
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Animation/ryuPunch1.uasset" 265
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk.uasset" 266
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_0.uasset" 267
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_1.uasset" 268
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_2.uasset" 269
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_3.uasset" 270
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_4.uasset" 271
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Ryu/Animation/ryuWalk1.uasset" 272
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 273
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 274
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 275
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 276
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 277
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 278
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 279
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Collapse01.uasset" 280
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Collapse02.uasset" 281
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Explosion01.uasset" 282
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Explosion02.uasset" 283
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Fire01.uasset" 284
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 285
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Light01.uasset" 286
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Light01_Cue.uasset" 287
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Light02.uasset" 288
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Light02_Cue.uasset" 289
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Smoke01.uasset" 290
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 291
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Starter_Music01.uasset" 292
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 293
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 294
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Steam01.uasset" 295
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 296
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Burst_M.uasset" 297
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 298
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 299
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 300
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 301
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-3.uasset" 2
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c01_PNG.uasset" 3
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c02_PNG.uasset" 4
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c03_PNG.uasset" 5
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/BackStand.uasset" 6
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-4.uasset" 7
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c04_PNG.uasset" 8
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/c05_PNG.uasset" 9
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch.uasset" 10
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-1.uasset" 11
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cro_kick_back_ckb01_PNG.uasset" 12
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-2.uasset" 13
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cro_kick_back_ckb02_PNG.uasset" 14
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cro_kick_back_ckb03_PNG.uasset" 15
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-7.uasset" 16
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/j03_PNG.uasset" 17
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/BackJump.uasset" 18
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-6.uasset" 19
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/j02_PNG.uasset" 20
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/FrontJump.uasset" 21
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Textures/hp.uasset" 22
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/stp_PNG.uasset" 23
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/stp_PNG_Flipbook.uasset" 24
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Textures/wake-0.uasset" 25
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa00_PNG.uasset" 26
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa01_PNG.uasset" 27
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa02_PNG.uasset" 28
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa03_PNG.uasset" 29
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Textures/wake-1.uasset" 30
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa04_PNG.uasset" 31
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa05_PNG.uasset" 32
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa06_PNG.uasset" 33
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa07_PNG.uasset" 34
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Textures/wake-2.uasset" 35
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/wa08_PNG.uasset" 36
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Wake/Frames/Wake.uasset" 37
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 38
+"../../../../../SeniorProject/Content/2dSideScroller/Textures/2DBackground.uasset" 39
+"../../../../../SeniorProject/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 40
+"../../../../../SeniorProject/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 41
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 42
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 43
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 44
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 45
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 46
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 47
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 48
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 49
+"../../../../../SeniorProject/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 50
+"../../../../../SeniorProject/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 51
+"../../../../../SeniorProject/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 52
+"../../../../../SeniorProject/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 53
+"../../../../../SeniorProject/Content/2dSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 54
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 55
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 56
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 57
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 58
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 59
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 60
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 61
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 62
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 63
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 64
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 65
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 66
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 67
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 68
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 69
+"../../../../../SeniorProject/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 70
+"../../../../../SeniorProject/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 71
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 72
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch_punch_IMG_0355_PNG.uasset" 73
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch_punch_IMG_0356_PNG.uasset" 74
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch_punch_IMG_0357_PNG.uasset" 75
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouch_punch_IMG.uasset" 76
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Crouching.uasset" 77
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Textures/crouch-0.uasset" 78
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_chk_PNG.uasset" 79
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk01_PNG.uasset" 80
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk02_PNG.uasset" 81
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk03_PNG.uasset" 82
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk04_PNG.uasset" 83
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_cmk05_PNG.uasset" 84
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/CrouchKH.uasset" 85
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/Cro_Kick_clk_PNG.uasset" 86
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/CrouchKL.uasset" 87
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Crouch/Frames/CrouchKM.uasset" 88
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Dmg/Textures/dmg.uasset" 89
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Crouch_Dmg_PNG.uasset" 90
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Crouch_Dmg.uasset" 91
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/High_Dmg_PNG.uasset" 92
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/High_Dmg.uasset" 93
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Low_Dmg_PNG.uasset" 94
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Low_Dmg.uasset" 95
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Mid_Dmg_PNG.uasset" 96
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Dmg/Frames/Mid_Dmg.uasset" 97
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Guard/Textures/guard.uasset" 98
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Guard/Frames/c_Guard_PNG.uasset" 99
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Guard/Frames/c_Guard_PNG_Flipbook.uasset" 100
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Guard/Frames/s_Guard_PNG.uasset" 101
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Guard/Frames/s_Guard_PNG_Flipbook.uasset" 102
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/j01_PNG.uasset" 103
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/DirectJump.uasset" 104
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-0.uasset" 105
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh01_PNG.uasset" 106
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh02_PNG.uasset" 107
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh03_PNG.uasset" 108
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh04_PNG.uasset" 109
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-1.uasset" 110
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh05_PNG.uasset" 111
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh06_PNG.uasset" 112
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh07_PNG.uasset" 113
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh08_PNG.uasset" 114
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-2.uasset" 115
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh09_PNG.uasset" 116
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh10_PNG.uasset" 117
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh11_PNG.uasset" 118
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh12_PNG.uasset" 119
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-3.uasset" 120
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkh13_PNG.uasset" 121
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JKH.uasset" 122
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkm01_PNG.uasset" 123
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JKL.uasset" 124
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_kick_jkl01_PNG.uasset" 125
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JKM.uasset" 126
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpl01_PNG.uasset" 127
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JPL.uasset" 128
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-4.uasset" 129
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm01_PNG.uasset" 130
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm02_PNG.uasset" 131
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm03_PNG.uasset" 132
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm04_PNG.uasset" 133
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Textures/jump-5.uasset" 134
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm05_PNG.uasset" 135
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm06_PNG.uasset" 136
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm07_PNG.uasset" 137
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm08_PNG.uasset" 138
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm09_PNG.uasset" 139
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/Jump_punch_jpm10_PNG.uasset" 140
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Jump/Frames/JPM.uasset" 141
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Textures/kick-0.uasset" 142
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/hk_PNG.uasset" 143
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Textures/kick-1.uasset" 144
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/k01_PNG.uasset" 145
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/k02_PNG.uasset" 146
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/k03_PNG.uasset" 147
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/Mid_kick_mk01_PNG.uasset" 148
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/Mid_kick_mk02_PNG.uasset" 149
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/HighKick.uasset" 150
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/k04_PNG.uasset" 151
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Textures/kick-2.uasset" 152
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/lk_PNG.uasset" 153
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/LowKick.uasset" 154
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/Mid_kick_mk03_PNG.uasset" 155
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Kick/Frames/MidKick.uasset" 156
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/hp01_PNG.uasset" 157
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/hp02_PNG.uasset" 158
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/hp03_PNG.uasset" 159
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Hight/Frames/hp.uasset" 160
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Textures/mp.uasset" 161
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mp01_PNG.uasset" 162
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mp02_PNG.uasset" 163
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mp.uasset" 164
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mps_PNG.uasset" 165
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/mps_PNG_Flipbook.uasset" 166
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/stp_PNG.uasset" 167
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Punch/Middle/Frames/stp.uasset" 168
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Stand/Textures/stand.uasset" 169
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Stand/Frames/s1_PNG.uasset" 170
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Stand/Frames/Stand.uasset" 171
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Stun/Textures/stun.uasset" 172
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun01_PNG.uasset" 173
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun02_PNG.uasset" 174
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun03_PNG.uasset" 175
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun04_PNG.uasset" 176
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Stun/Frames/Stun.uasset" 177
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-0.uasset" 178
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0209_PNG.uasset" 179
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0210_PNG.uasset" 180
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0211_PNG.uasset" 181
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0212_PNG.uasset" 182
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-1.uasset" 183
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0213_PNG.uasset" 184
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0214_PNG.uasset" 185
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0215_PNG.uasset" 186
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0216_PNG.uasset" 187
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-2.uasset" 188
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0217_PNG.uasset" 189
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0218_PNG.uasset" 190
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0219_PNG.uasset" 191
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0220_PNG.uasset" 192
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-3.uasset" 193
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0221_PNG.uasset" 194
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0222_PNG.uasset" 195
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0223_PNG.uasset" 196
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0224_PNG.uasset" 197
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Textures/walk-4.uasset" 198
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0225_PNG.uasset" 199
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0226_PNG.uasset" 200
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0227_PNG.uasset" 201
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/IMG_0228_PNG.uasset" 202
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/Walk.uasset" 203
+"../../../../../SeniorProject/Content/2DSideScroller/Asset/Walk/Frames/WalkReverse.uasset" 204
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 205
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Blueprints/P1-P2.uasset" 206
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter2.uasset" 207
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Blueprints/MyPlayerControler1_2.uasset" 208
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_2.uasset" 209
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Blueprints/MyPlayerControler1.uasset" 210
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Physic/CharacterJump.uasset" 211
+"../../../../../SeniorProject/Content/Sprites/Background/cartesian-plane-024.uasset" 212
+"../../../../../SeniorProject/Content/Sprites/Background/cartesian-plane-024_Mat.uasset" 213
+"../../../../../SeniorProject/Content/Sprites/Background/cartesian-plane-024_Mat2.uasset" 214
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenCrouch.uasset" 215
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenCrouch_Sprite_0.uasset" 216
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenCrouch_Sprite_1.uasset" 217
+"../../../../../SeniorProject/Content/Sprites/Ken/Animation/kenCrouch1.uasset" 218
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenIdle.uasset" 219
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenIdle_Sprite_10.uasset" 220
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenIdle_Sprite_11.uasset" 221
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenIdle_Sprite_12.uasset" 222
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenIdle_Sprite_9.uasset" 223
+"../../../../../SeniorProject/Content/Sprites/Ken/Animation/kenIdle1.uasset" 224
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenJump.uasset" 225
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_1.uasset" 226
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_2.uasset" 227
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_3.uasset" 228
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_5.uasset" 229
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenJump_Sprite_6.uasset" 230
+"../../../../../SeniorProject/Content/Sprites/Ken/Animation/kenJump1.uasset" 231
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenPunch.uasset" 232
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenPunch_Sprite_0.uasset" 233
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenPunch_Sprite_1.uasset" 234
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenPunch_Sprite_2.uasset" 235
+"../../../../../SeniorProject/Content/Sprites/Ken/Animation/kenPunch1.uasset" 236
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenWalking.uasset" 237
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_0.uasset" 238
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_1.uasset" 239
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_2.uasset" 240
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_3.uasset" 241
+"../../../../../SeniorProject/Content/Sprites/Ken/Sheets/kenWalking_Sprite_4.uasset" 242
+"../../../../../SeniorProject/Content/Sprites/Ken/Animation/kenWalking1.uasset" 243
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuCrouch.uasset" 244
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuCrouch_Sprite_0.uasset" 245
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuCrouch_Sprite_1.uasset" 246
+"../../../../../SeniorProject/Content/Sprites/Ryu/Animation/ryuCrouch1.uasset" 247
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle.uasset" 248
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle_Sprite_0.uasset" 249
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle_Sprite_1.uasset" 250
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle_Sprite_2.uasset" 251
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuIdle_Sprite_3.uasset" 252
+"../../../../../SeniorProject/Content/Sprites/Ryu/Animation/ryuIdle1.uasset" 253
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump.uasset" 254
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_1.uasset" 255
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_2.uasset" 256
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_3.uasset" 257
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_4.uasset" 258
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuJump_Sprite_5.uasset" 259
+"../../../../../SeniorProject/Content/Sprites/Ryu/Animation/ryuJump1.uasset" 260
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuPunch.uasset" 261
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuPunch_Sprite_0.uasset" 262
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuPunch_Sprite_1.uasset" 263
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuPunch_Sprite_2.uasset" 264
+"../../../../../SeniorProject/Content/Sprites/Ryu/Animation/ryuPunch1.uasset" 265
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk.uasset" 266
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_0.uasset" 267
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_1.uasset" 268
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_2.uasset" 269
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_3.uasset" 270
+"../../../../../SeniorProject/Content/Sprites/Ryu/Sheets/ryuWalk_Sprite_4.uasset" 271
+"../../../../../SeniorProject/Content/Sprites/Ryu/Animation/ryuWalk1.uasset" 272
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 273
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 274
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 275
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 276
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 277
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 278
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 279
+"../../../../../SeniorProject/Content/StarterContent/Audio/Collapse01.uasset" 280
+"../../../../../SeniorProject/Content/StarterContent/Audio/Collapse02.uasset" 281
+"../../../../../SeniorProject/Content/StarterContent/Audio/Explosion01.uasset" 282
+"../../../../../SeniorProject/Content/StarterContent/Audio/Explosion02.uasset" 283
+"../../../../../SeniorProject/Content/StarterContent/Audio/Fire01.uasset" 284
+"../../../../../SeniorProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 285
+"../../../../../SeniorProject/Content/StarterContent/Audio/Light01.uasset" 286
+"../../../../../SeniorProject/Content/StarterContent/Audio/Light01_Cue.uasset" 287
+"../../../../../SeniorProject/Content/StarterContent/Audio/Light02.uasset" 288
+"../../../../../SeniorProject/Content/StarterContent/Audio/Light02_Cue.uasset" 289
+"../../../../../SeniorProject/Content/StarterContent/Audio/Smoke01.uasset" 290
+"../../../../../SeniorProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 291
+"../../../../../SeniorProject/Content/StarterContent/Audio/Starter_Music01.uasset" 292
+"../../../../../SeniorProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 293
+"../../../../../SeniorProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 294
+"../../../../../SeniorProject/Content/StarterContent/Audio/Steam01.uasset" 295
+"../../../../../SeniorProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 296
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Burst_M.uasset" 297
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 298
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 299
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 300
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 301
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 302
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 303
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 304
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 305
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 306
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/P_Explosion.uasset" 307
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 308
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 303
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 304
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 305
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 306
+"../../../../../SeniorProject/Content/StarterContent/Particles/P_Explosion.uasset" 307
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 308
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 309
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 310
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Bush_D.uasset" 311
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Bush_N.uasset" 312
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 313
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Bush.uasset" 314
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Chair_M.uasset" 315
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Chair_N.uasset" 316
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 317
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Couch.uasset" 318
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Glass.uasset" 319
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Door_M.uasset" 320
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Door_N.uasset" 321
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_Door.uasset" 322
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Door.uasset" 323
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 324
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 325
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 326
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 310
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Bush_D.uasset" 311
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Bush_N.uasset" 312
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 313
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Bush.uasset" 314
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Chair_M.uasset" 315
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Chair_N.uasset" 316
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 317
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Couch.uasset" 318
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Glass.uasset" 319
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Door_M.uasset" 320
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Door_N.uasset" 321
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_Door.uasset" 322
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Door.uasset" 323
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 324
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 325
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 326
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 327
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 328
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 329
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 330
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 331
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 332
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Rock.uasset" 333
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 334
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 335
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 336
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Shelf.uasset" 337
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 338
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Stairs.uasset" 339
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 340
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 341
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 342
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 343
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 344
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 345
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 346
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 347
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 348
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 349
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 350
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 351
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 352
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 353
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 354
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 355
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 356
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 357
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_Mat.uasset" 358
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 328
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 329
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 330
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 331
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 332
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Rock.uasset" 333
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 334
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 335
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 336
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Shelf.uasset" 337
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 338
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Stairs.uasset" 339
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 340
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 341
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 342
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 343
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 344
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 345
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 346
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 347
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 348
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 349
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 350
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 351
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 352
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 353
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 354
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 355
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 356
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 357
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_Mat.uasset" 358
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 359
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 360
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 361
@@ -492,250 +492,252 @@
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 491
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 492
 "../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 493
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 494
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 495
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 496
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 497
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 498
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 499
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 500
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 501
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 502
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 503
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 504
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 505
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 506
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 507
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 508
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 509
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 510
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 511
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 512
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 513
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 514
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 515
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 516
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 517
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 518
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 519
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 520
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 521
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_None.uasset" 522
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderNone_MAT.uasset" 523
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 524
-"../../../../../../Work/Senior Project/SeniorProject/Content/Sprites/Background/cartesian-plane-024_Mat1.uasset" 525
-"../../../Engine/Content/BasicShapes/Cube.uasset" 526
-"../../../../../../Work/Senior Project/SeniorProject/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 527
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScroller/Sprites/Ledge.uasset" 528
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Blueprints/HP1.uasset" 529
-"../../../../../../Work/Senior Project/SeniorProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 530
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 531
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 532
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 533
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 534
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 535
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 536
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 537
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 538
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 539
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 540
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 541
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 542
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 543
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 544
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 545
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 546
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 547
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 548
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 549
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 550
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 551
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 552
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 553
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 554
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 555
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 556
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 557
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 558
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 559
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 560
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 561
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 562
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 563
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 564
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 565
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 566
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 567
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 568
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 569
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Statue_M.uasset" 570
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Statue_N.uasset" 571
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 572
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 573
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 574
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Chair.uasset" 575
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 576
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Statue.uasset" 577
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 578
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 579
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 580
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_TableRound.uasset" 581
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Maps/Minimal_Default.umap" 582
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 583
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 584
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 585
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 586
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Water_N.uasset" 587
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 588
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 589
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/P_Fire.uasset" 590
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 591
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 592
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/P_Smoke.uasset" 593
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 594
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 595
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 596
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 597
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/P_Sparks.uasset" 598
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 599
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 600
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 601
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 602
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 603
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 604
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 605
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 606
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 607
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 608
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 609
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 610
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 611
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 612
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 613
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 614
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 615
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 616
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 617
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 618
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 619
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 620
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 621
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 622
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 623
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 624
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 625
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 626
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 627
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 628
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 629
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 630
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 631
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 632
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 633
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 634
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 635
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 636
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 637
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 638
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 639
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 640
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 641
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 642
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 643
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 644
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 645
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 646
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 647
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 648
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 649
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 650
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 651
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 652
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 653
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 654
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 655
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 656
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 657
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 658
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 659
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 660
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 661
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 662
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 663
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 664
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 665
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 666
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 667
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 668
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 669
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 670
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 671
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 672
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 673
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 674
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 675
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 676
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 677
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 678
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 679
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 680
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 681
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 682
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 683
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 684
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 685
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 686
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 687
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 688
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 689
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 690
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 691
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 692
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 693
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 694
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 695
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 696
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 697
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 698
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 699
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Water_M.uasset" 700
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 701
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 702
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 703
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 704
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 705
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 706
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 707
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 708
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 709
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 710
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 711
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 712
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 713
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 714
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 715
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 716
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 717
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 718
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 719
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 720
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 721
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 722
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 723
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 724
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/MaterialSphere.uasset" 725
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Frame_M.uasset" 726
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Textures/T_Frame_N.uasset" 727
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 728
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 729
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 730
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 731
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 732
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 733
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 734
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 735
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 736
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 737
-"../../../../../../Work/Senior Project/SeniorProject/Content/StarterContent/Maps/StarterMap.umap" 738
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 739
-"../../../Engine/Content/Maps/Entry.umap" 740
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 494
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 495
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 496
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 497
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 498
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 499
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 500
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 501
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 502
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 503
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 504
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 505
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 506
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 507
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 508
+"../../Plugins/Marketplace/InputBuffer/Content/T_InputCommand.uasset" 509
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 510
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 511
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 512
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 513
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 514
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 515
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 516
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 517
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 518
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 519
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 520
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 521
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 522
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 523
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_None.uasset" 524
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderNone_MAT.uasset" 525
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 526
+"../../../../../SeniorProject/Content/Sprites/Background/cartesian-plane-024_Mat1.uasset" 527
+"../../../Engine/Content/BasicShapes/Cube.uasset" 528
+"../../../../../SeniorProject/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 529
+"../../../../../SeniorProject/Content/2DSideScroller/Sprites/Ledge.uasset" 530
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Blueprints/HP1.uasset" 531
+"../../../../../SeniorProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 532
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 533
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 534
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 535
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 536
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 537
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 538
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 539
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 540
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 541
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 542
+"../../../../../SeniorProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 543
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 544
+"../../../../../SeniorProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 545
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 546
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 547
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 548
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 549
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 550
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 551
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 552
+"../../../../../SeniorProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 553
+"../../../../../SeniorProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 554
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 555
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 556
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 557
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 558
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 559
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 560
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 561
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 562
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 563
+"../../../../../SeniorProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 564
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 565
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 566
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 567
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 568
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 569
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 570
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 571
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Statue_M.uasset" 572
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Statue_N.uasset" 573
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 574
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 575
+"../../../../../SeniorProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 576
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Chair.uasset" 577
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 578
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Statue.uasset" 579
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 580
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 581
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 582
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_TableRound.uasset" 583
+"../../../../../SeniorProject/Content/StarterContent/Maps/Minimal_Default.umap" 584
+"../../../../../SeniorProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 585
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 586
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 587
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 588
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Water_N.uasset" 589
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 590
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 591
+"../../../../../SeniorProject/Content/StarterContent/Particles/P_Fire.uasset" 592
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 593
+"../../../../../SeniorProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 594
+"../../../../../SeniorProject/Content/StarterContent/Particles/P_Smoke.uasset" 595
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 596
+"../../../../../SeniorProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 597
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 598
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 599
+"../../../../../SeniorProject/Content/StarterContent/Particles/P_Sparks.uasset" 600
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 601
+"../../../../../SeniorProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 602
+"../../../../../SeniorProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 603
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 604
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 605
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 606
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 607
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 608
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 609
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 610
+"../../../../../SeniorProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 611
+"../../../../../SeniorProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 612
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 613
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 614
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 615
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 616
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 617
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 618
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 619
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 620
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 621
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 622
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 623
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 624
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 625
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 626
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 627
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 628
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 629
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 630
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 631
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 632
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 633
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 634
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 635
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 636
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 637
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 638
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 639
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 640
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 641
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 642
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 643
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 644
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 645
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 646
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 647
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 648
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 649
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 650
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 651
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 652
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 653
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 654
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 655
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 656
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 657
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 658
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 659
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 660
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 661
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 662
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 663
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 664
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 665
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 666
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 667
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 668
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 669
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 670
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 671
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 672
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 673
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 674
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 675
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 676
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 677
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 678
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 679
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 680
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 681
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 682
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 683
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 684
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 685
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 686
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 687
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 688
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 689
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 690
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 691
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 692
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 693
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 694
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 695
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 696
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 697
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 698
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 699
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 700
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 701
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Water_M.uasset" 702
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 703
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 704
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 705
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 706
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 707
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 708
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 709
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 710
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 711
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 712
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 713
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 714
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 715
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 716
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 717
+"../../../../../SeniorProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 718
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 719
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 720
+"../../../../../SeniorProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 721
+"../../../../../SeniorProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 722
+"../../../../../SeniorProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 723
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 724
+"../../../../../SeniorProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 725
+"../../../../../SeniorProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 726
+"../../../../../SeniorProject/Content/StarterContent/Props/MaterialSphere.uasset" 727
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Frame_M.uasset" 728
+"../../../../../SeniorProject/Content/StarterContent/Textures/T_Frame_N.uasset" 729
+"../../../../../SeniorProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 730
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 731
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 732
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 733
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 734
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 735
+"../../../../../SeniorProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 736
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 737
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 738
+"../../../../../SeniorProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 739
+"../../../../../SeniorProject/Content/StarterContent/Maps/StarterMap.umap" 740
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 741
+"../../../Engine/Content/Maps/Entry.umap" 742
